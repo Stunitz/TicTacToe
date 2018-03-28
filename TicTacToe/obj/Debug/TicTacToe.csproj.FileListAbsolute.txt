@@ -1,0 +1,15 @@
+C:\Users\rafas\source\repos\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
+C:\Users\rafas\source\repos\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+C:\Users\rafas\source\repos\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Users\rafas\source\repos\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csprojResolveAssemblyReference.cache
+C:\Users\rafas\source\repos\TicTacToe\TicTacToe\obj\Debug\MainWindow.g.cs
+C:\Users\rafas\source\repos\TicTacToe\TicTacToe\obj\Debug\App.g.cs
+C:\Users\rafas\source\repos\TicTacToe\TicTacToe\obj\Debug\TicTacToe_MarkupCompile.cache
+C:\Users\rafas\source\repos\TicTacToe\TicTacToe\obj\Debug\TicTacToe_MarkupCompile.lref
+C:\Users\rafas\source\repos\TicTacToe\TicTacToe\obj\Debug\MainWindow.baml
+C:\Users\rafas\source\repos\TicTacToe\TicTacToe\obj\Debug\TicTacToe.g.resources
+C:\Users\rafas\source\repos\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+C:\Users\rafas\source\repos\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.Cache
+C:\Users\rafas\source\repos\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\rafas\source\repos\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
+C:\Users\rafas\source\repos\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
